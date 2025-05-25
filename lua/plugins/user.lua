@@ -29,10 +29,10 @@ return {
   {
     "rcarriga/nvim-notify",
     opts = {
-      timeout = 1000,
+      timeout = 5000,
       stages = "slide",
       fps = 144,
-      max_width = 70,
+      max_width = 80,
     },
   },
 
