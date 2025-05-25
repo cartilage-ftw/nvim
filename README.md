@@ -4,15 +4,15 @@
 ## Updates
 
 - Markdown rendering with [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)  ~[markview.nvim](https://github.com/OXY2DEV/markview.nvim)~
-$$\partial^2 \psi$$
-
-$\frac{a}{b}$
 
 ## Terminal Config
 
 Terminal: iTerm2
+
 Theme: [powerlevel10k](https://github.com/romkatv/powerlevel10k) with [OhMyZsh!](https://ohmyz.sh/)
+
 ColorScheme: [OneHalfDark](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/OneHalfDark.itermcolors)
+
 Font: [Hack Nerd Font Mono](https://www.nerdfonts.com/font-downloads)
 
 ## Known Issues
